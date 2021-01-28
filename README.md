@@ -1,4 +1,4 @@
-# EmojiCss
+# EmojiCSS
 ## Add via CDN
 <br />
 Use:<br/>
