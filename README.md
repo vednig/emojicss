@@ -10,6 +10,8 @@ GitCDN - https://gitcdn.xyz/cdn/vednig/emojicss/main/src/emoji.css <br/>
       <link href='path/to/emoji.css' rel='stylesheet' type='text/css'>  
       <script src='path/to/emoji-enhance.min.js' type='text/javascript'>
 ```
+
+##Docs
 <ul>
   <li>Buttons</li>
   <ul>
