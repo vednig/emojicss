@@ -2,9 +2,19 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0%;
 }
-a{
+a:visited {
+    color: cornflowerblue;
+    text-decoration: dashed;
+    padding: 2px;
+}
+a:link{
     color: dodgerblue;
     text-decoration: dashed;
+    padding: 2px;
+}
+a:hover{
+    color: dodgerblue;
+    text-decoration: underline;
     padding: 2px;
 }
 .bg-dark{
@@ -143,6 +153,14 @@ a{
 .btn-unique:active{
     background-color: #3f0d6e;
     color: antiquewhite;
+}
+.label{
+    margin-left: 40%;
+    inline-size: auto;
+    inset-block: auto;
+    width: 100%;
+    height: fit-content;
+    contain: content;
 }
 
 .unselect {
@@ -342,3 +360,98 @@ outline-width: 10ch;
     border-color: #3c3c3c;
     background-color: #ffffff;
 }
+
+  @keyframes spin {
+    0% {transform:rotate(3deg);size: 10ch;}
+    50% {transform:rotate(0deg);}
+    100% {transform:rotate(3deg);}
+}
+ 
+@keyframes fadeIn {
+    0% {opacity: .35;} 
+    50% {opacity: .5;} 
+    75% {opacity: .75;} 
+    100% {opacity: .25;}
+}
+
+.emoji:hover{
+    animation-name: spin;
+    animation-duration: 500ms;
+    animation-timing-function: fade-in;
+    animation-iteration-count: infinite;
+    cursor: pointer;
+}
+.img{
+    width: 100%;
+}
+.wp-32{
+    width: 32%;
+}
+.hp-32{
+    height: 32%;
+}
+.vid{
+
+}
+.audio{
+
+    
+}
+.img-cont{
+
+}
+.footer {
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+ .text-align-center{
+    text-align: center;
+  }
+  .align-center{
+      align-self: center;
+      align-items: center;
+    text-align: center;
+    left: 45%;
+    right: 45%;
+  }
+  .blur{
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+  }
+  .panda{
+    webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
+  .demo-img{
+      height: 70px;
+  }
+  .bg-danger{
+      background-color: indianred;
+  }
+  .bg-primary{
+    background-color: skyblue;
+
+  }
+  .bg-info{
+    background-color: dodgerblue;
+  }
+  .bg-success{
+    background-color:#139253 ;
+  }
+  .bg-unique{
+    background-color: purple;
+  }
+  .bg-warning{
+    background-color: yellow;
+  }
+  .bg-warm{
+    background-color: ;
+  }
+
+
+  
