@@ -1,9 +1,6 @@
 # EmojiCSS
-## Add via CDN
-<br />
-JsDelivr - https://cdn.jsdelivr.net/gh/vednig/emojicss/src/emoji.css <br/>
-GitHubCDN - https://raw.githubusercontent.com/vednig/emojicss/main/src/emoji.css <br/>
-GitCDN - https://gitcdn.xyz/cdn/vednig/emojicss/main/src/emoji.css <br/>
+## Installation
+
 
  ```html
   
@@ -11,60 +8,61 @@ GitCDN - https://gitcdn.xyz/cdn/vednig/emojicss/main/src/emoji.css <br/>
       <script src='path/to/emoji-enhance.min.js' type='text/javascript'>
 ```
 
-## Docs
+### Add via CDN
+<br />
+
+### JsDelivr 
+
+
+```html
+  
+      <link href='https://cdn.jsdelivr.net/gh/vednig/emojicss/src/emoji.min.css' rel='stylesheet' type='text/css'>  
+      <script defer src='https://cdn.jsdelivr.net/gh/vednig/emojicss/src/emoji-enhance.min.js' type='text/javascript'>
+```
+
+<br/>
+
+### GitCDN 
+
+
+```html
+  
+      <link href='https://min.gitcdn.link/cdn/vednig/emojicss/main/src/emoji.css' rel='stylesheet' type='text/css'>  
+      <script defer src='https://min.gitcdn.link/cdn/vednig/emojicss/main/src/enhance.js' type='text/javascript'>
+```
+
+<br/>
+
+###  GitHack
+
+
+```html
+  
+      <link href='https://rawcdn.githack.com/vednig/emojicss/main/src/emoji.css' rel='stylesheet' type='text/css'>  
+      <script defer src='https://rawcdn.githack.com/vednig/emojicss/main/src/emoji-enhance.min.js' type='text/javascript'>
+```
+<br/>
+
+## Elements
 <ul>
-  <li>Buttons</li>
-  <ul>
-    <li>Simple Button</li>
-    
-  ```html
-  
-      <button class='btn'>Button</button>  
-```
-
-  <li>Primary Button</li>
-  
-  
-   ```html
-  
-      <button class='btn btn-primary'>Button</button>  
-```
-
-<li>Danger Button</li>
-
-
- ```html
-  
-      <button class='btn btn-danger'>Button</button>  
-```
-
-
-<li>Warning Button</li>
-
-
- ```html
-  
-      <button class='btn btn-warning'>Button</button>  
-```
-
-  </ul>
-  <li>Alerts</li>
-  <ul>
-  <li>Closable Alerts</li>
-  
-   ```html
-  
-    <div class='alert alert-danger'><strong>Alert!</strong>This alert is dangerous.</button>  
-
-```
-Note: Closable Alerts require script tags.i.e. js file.
-  <li>Non-Closable Alerts</li>
-  
-   ```html
-  
-      <div class='no-close-alert alert-danger'><strong>Alert!</strong>This alert is very dangerous.</div>  
-```
-
-  </ul>
-  
-</ul>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#text'>Text</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#button'>Button</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#heading'>Heading</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#image'>Image</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#labels'>Labels</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#audio'>Audio</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#video'>Video</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#container'>Container</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#cards'>Cards</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#background'>Background</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#alerts'>Alerts</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#icons'>Icons</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#emojis'>Emojis</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#pophover'>Pophover</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#effects'>Image Effects</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#colors'>Colors</a></li>
+ </ul>
+ 
+ ## Contribute
+ 
+ Emoji-CSS is Open-Source you can add feature you want YOURSELF! Feel free to send a PR. 
