@@ -46,22 +46,22 @@
 ## Elements
 
 <ul>
- <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#text'>Text</a></li>
- <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#button'>Button</a></li>
- <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#heading'>Heading</a></li>
- <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#image'>Image</a></li>
- <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#labels'>Labels</a></li>
- <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#audio'>Audio</a></li>
- <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#video'>Video</a></li>
- <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#container'>Container</a></li>
- <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#cards'>Cards</a></li>
- <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#background'>Background</a></li>
- <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#alerts'>Alerts</a></li>
- <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#icons'>Icons</a></li>
- <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#emojis'>Emojis</a></li>
- <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#pophover'>Pophover</a></li>
- <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#effects'>Image Effects</a></li>
- <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#colors'>Colors</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/main/src/demo.html#text'>Text</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/main/src/demo.html#button'>Button</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/main/src/demo.html#heading'>Heading</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/main/src/demo.html#image'>Image</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/main/src/demo.html#labels'>Labels</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/main/src/demo.html#audio'>Audio</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/main/src/demo.html#video'>Video</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/main/src/demo.html#container'>Container</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/main/src/demo.html#cards'>Cards</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/main/src/demo.html#background'>Background</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/main/src/demo.html#alerts'>Alerts</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/main/src/demo.html#icons'>Icons</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/main/src/demo.html#emojis'>Emojis</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/main/src/demo.html#pophover'>Pophover</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/main/src/demo.html#effects'>Image Effects</a></li>
+ <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/main/src/demo.html#colors'>Colors</a></li>
 </ul>
  
  ## Contribute
