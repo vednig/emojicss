@@ -44,6 +44,7 @@
 <br/>
 
 ## Elements
+
 <ul>
  <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#text'>Text</a></li>
  <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#button'>Button</a></li>
@@ -61,7 +62,7 @@
  <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#pophover'>Pophover</a></li>
  <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#effects'>Image Effects</a></li>
  <li><a href='https://gitcdn.xyz/cdn/vednig/emojicss/e8cd501adab882fa7c192868f979e7cb725c2c9f/src/demo.html#colors'>Colors</a></li>
- </ul>
+</ul>
  
  ## Contribute
  
